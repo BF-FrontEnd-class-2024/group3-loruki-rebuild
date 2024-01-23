@@ -31,16 +31,16 @@ how often will we get in touch on each channel, and what we will discuss there:
 
 | Day      | Tuesday | Wednesday |
 | -------- | :-----: | :-------: |
-| Dnyanedo | 11 - 5  |   9 - 5   |
+| Dnyandeo | 11 - 5  |   9 - 5   |
 | Ahlam    | 11 - 5  |   9 - 5   |
-| Nimrata  | 11 - 5  |   9 - 5   |
+| Namrata  | 11 - 5  |   9 - 5   |
 | Emrah    | 11 - 5  |   9 - 5   |
 
 ### How many hours everyone has per day
 
-- Dnyanedo: 6h;
+- Dnyandeo: 6h;
 - Ahlam: 6h;
-- Nimrata: 6h;
+- Namrata: 6h;
 - Emrah: 6h;
 
 ## Asking for Help
