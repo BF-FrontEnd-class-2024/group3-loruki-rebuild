@@ -82,16 +82,15 @@
 
 ## 6. Footer
 
-### As a user I want to see footer, pages and social media links to contact the website owner
+### As a user I want to see footer
+
+### Pages and social media links to contact the website owner
 
 ### html
 
 - add `title`
 - add `pages links`
 - add `social links`
-
-### html
-
 - add `footer`
 - add `h1` for `title`
 - add `a` for `pages`
