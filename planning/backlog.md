@@ -13,7 +13,8 @@ As a user I can read the title of the page
 - As a user I can navigate to other pages
 - [ ] _There is a prominent navigation bar to navigate to other page_
 - As a user I can read an introduction to this project
-- [ ] _There is a section directly under the navbar describing the project's goals_
+- [ ] _There is a section directly under the navbar describing the project's
+      goals_
 - As a user I can see clearly appearance of website
 - [ ] _There is a main text in the page with the helpful info and links_
 - As a user I can see demo the page
@@ -31,7 +32,6 @@ As a user I can read the title of the page
 
 - As a user, I would like to be informed about the page and the features of
   Loruki
-
 - [ ] _There is a feature page to see more information_
 
 ## Could-Haves
@@ -39,5 +39,4 @@ As a user I can read the title of the page
 > If there is more time it would be nice to have...
 
 - As a user I want to see all helpful links which are related with the page
-
 - [ ] _There is menu with links to all documents and information_
