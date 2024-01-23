@@ -1,43 +1,41 @@
-# Name of project
+# Loruki
 
-> A longer description
+> Information about hosting sites
 
 ## Table of contents
 
-- [Name of project](#name-of-project)
+- [Name of project](#loruki)
   - [Table of contents](#table-of-contents)
   - [General info](#general-info)
   - [Screenshots](#screenshots)
   - [Technologies](#technologies)
   - [Setup](#setup)
   - [Code Examples](#code-examples)
-  - [Features](#features)
   - [Status](#status)
   - [Inspiration](#inspiration)
-  - [Contact](#contact)
-  - [Instructions for use](#instructions-for-use)
+  - [Contact](#members)
   - [Code Quality Checks](#code-quality-checks)
   - [Continuous Integration (CI)](#continuous-integration-ci)
   - [Repo Setup](#repo-setup)
 
 ## General info
 
-> A short description
+> Deploy all web sites to our platform
 
 ## Screenshots
 
-![Example screenshot](./planning/screenshot.jpg)
+![Example screenshot](./public/website.png)
 
 ## Technologies
 
 - Node 14.16.0
 - VSC code
-- JavaScript
-- ...
-- ...
+- Html
+- Css
 
 ## Setup
 
+- clone repo
 - `npm run start`
 
 ## Code Examples
@@ -47,19 +45,6 @@
 console.log("Hello World");
 ```
 
-## Features
-
-List of features ready and Todos for future development
-
--
--
--
-
-To-do list:
-
--
--
-
 ## Status
 
 Project is: _in progress_
@@ -68,9 +53,15 @@ Project is: _in progress_
 
 Project by freeCodeCamp.org
 
-## Contact
+## Members
 
-By [Name]
+[Ahlam](https://github.com/ahlamboudali)
+
+[Dnyandeo](https://github.com/Dnyandeo33)
+
+[Emrah](https://github.com/emrahhko)
+
+[Namrata](https://github.com/rathiNamrata)
 
 ## Instructions for use
 
