@@ -8,9 +8,10 @@
 
 ## Communication Schedule
 
-| Day | How | The topic of discussion |
-| --- | :-: | ----------------------- |
-|     |     |                         |
+| Day       | How  | The topic of discussion |
+| --------- | :--: | ----------------------- |
+| Tuesday   | Zoom | project planing         |
+| Wednesday | Zoom | working the project     |
 
 ## Communication Channels
 
@@ -28,17 +29,19 @@ how often will we get in touch on each channel, and what we will discuss there:
 
 ### Availability for calling/messaging
 
-| Day    | Monday  | Tuesday | Wednesday | Thursday | Friday  | Saturday | Sunday  |
-| ------ | :-----: | :-----: | :-------: | :------: | :-----: | :------: | :-----: |
-| _name_ | 13 - 20 | 13 - 20 |  13 - 20  | 13 - 20  | 13 - 20 | 13 - 20  | 13 - 20 |
+| Day      | Tuesday | Wednesday |
+| -------- | :-----: | :-------: |
+| Dnyanedo | 11 - 5  |   9 - 5   |
+| Ahlam    | 11 - 5  |   9 - 5   |
+| Nimrata  | 11 - 5  |   9 - 5   |
+| Emrah    | 11 - 5  |   9 - 5   |
 
 ### How many hours everyone has per day
 
-- name: _5h_; extra comments?
-- name: _6h_;
-- name: _5h_;
-- name: _4h_;
-- name: _3h_;
+- Dnyanedo: 6h;
+- Ahlam: 6h;
+- Nimrata: 6h;
+- Emrah: 6h;
 
 ## Asking for Help
 
