@@ -236,3 +236,74 @@ input:valid ~ label {
 .fa-twitter:hover {
   color: #1c9cea;
 }
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 20px;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  margin-top: 3rem;
+}
+
+.card {
+  background-color: #fff;
+  color: #333;
+  border-radius: 10px;
+  padding: 20px;
+  margin: 10px;
+  box-shadow: 1px 3px 10px grey;
+}
+
+.stats {
+  padding-top: 100px;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.my1 {
+  margin: 1rem 0;
+}
+
+.my4 {
+  margin: 3rem 0;
+  padding-left: 400px;
+  padding-right: 400px;
+}
+
+.stats-heading {
+  max-width: 500px;
+  margin: auto;
+}
+
+.stats .grid h3 {
+  font-size: 35px;
+}
+
+.stats .grid p {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.resize {
+  width: 700px;
+  height: auto;
+}
+
+.cli .grid {
+  grid-template-columns: repeat(3, 1fr);
+  grid-template-rows: repeat(2, 1fr);
+}
+
+.container img {
+  grid-column: 1 / span 2;
+  grid-row: 1 / span 2;
+}
+
+.cli {
+  padding-left: 300px;
+  padding-right: 500px;
+}
