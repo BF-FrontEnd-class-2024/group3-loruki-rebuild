@@ -4,9 +4,78 @@
     <meta charset="UTF-8" />
     <link rel="icon" type="image/svg+xml" href="./client/assets/favicon.ico" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>project!</title>
-
+    <title>Loruki</title>
     <link href="./styles/index.css" rel="stylesheet" />
   </head>
-  <body></body>
+
+  <body>
+    <!-- Navbar -->
+
+    <header>
+      <div class="navbar">
+        <h1 class="logo"><a href="#">Loruki.</a></h1>
+        <nav>
+          <ul>
+            <li>
+              <a href="index.html">Home</a>
+            </li>
+            <li>
+              <a href="features.html">Features</a>
+            </li>
+            <li>
+              <a href="docs.html">Docs</a>
+            </li>
+            <li>
+              <a href="team.html">Team</a>
+            </li>
+          </ul>
+        </nav>
+      </div>
+    </header>
+
+    <!-- --------------------------- main -------------------------- -->
+
+    <main>
+      <div class="container">
+        <div class="info">
+          <h1>
+            Easier Deployment <br />
+            and web development
+          </h1>
+          <p>
+            Deploy web apps of all kinds, or ask us to develop yours! From large
+            scale enterprise APIs to static websites for individuals. Fill out
+            the form to try a demo of our platform or ask for a quote for your
+            website design.
+          </p>
+          <button type="button" class="btn-1">Read More</button>
+        </div>
+
+        <!----------------------- form --------------- -->
+
+        <div class="form-box">
+          <h2>Request a Demo</h2>
+          <form>
+            <div class="input-group">
+              <input type="text" id="name" required />
+              <label for="name"> <i class="fas fa-user"></i> Your Name</label>
+            </div>
+            <div class="input-group">
+              <input type="text" id="company" required />
+              <label for="company"
+                ><i class="fa-solid fa-building-columns"></i>Company Name</label
+              >
+            </div>
+            <div class="input-group">
+              <input type="text" id="email" required />
+              <label for="email"
+                ><i class="fa-solid fa-envelope"></i>Email</label
+              >
+            </div>
+            <button type="submit">Send</button>
+          </form>
+        </div>
+      </div>
+    </main>
+  </body>
 </html>
