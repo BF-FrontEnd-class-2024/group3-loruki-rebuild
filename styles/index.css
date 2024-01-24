@@ -175,3 +175,64 @@ input:valid ~ label {
   top: -35px;
   font-size: 14px;
 }
+
+/* Footer Styles */
+.footer {
+  background-color: #002240;
+  color: #fff;
+  padding: 50px;
+}
+
+.footer .container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.footer-content {
+  flex: 1;
+}
+
+.footer-content h1 {
+  font-size: 2rem;
+}
+
+.footer-nav ul {
+  list-style: none;
+  padding: 30px;
+}
+
+.footer-link {
+  color: #fff;
+  margin-right: 10rem;
+}
+
+.footer-nav a:hover {
+  border-bottom: 2px #fff solid;
+}
+
+.social-link {
+  color: #002240;
+}
+
+.fab {
+  margin: 0 10px;
+  color: white;
+}
+
+/* Social Icons Hover Colors */
+.fa-github:hover {
+  color: black;
+}
+
+.fa-facebook:hover {
+  color: #1773ea;
+}
+
+.fa-instagram:hover {
+  color: #b32e87;
+}
+
+.fa-twitter:hover {
+  color: #1c9cea;
+}
