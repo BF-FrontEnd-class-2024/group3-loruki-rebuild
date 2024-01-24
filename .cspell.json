@@ -19,8 +19,7 @@
     "Ahlam",
     "Namrata",
     "Emrah",
-    "Loruki",
-    "statstic"
+    "Loruki"
   ],
   "ignorePaths": [
     "node_modules/**",

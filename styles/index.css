@@ -308,50 +308,6 @@ input:valid ~ label {
   padding-right: 500px;
 }
 
-.section-4 {
-  max-width: 70%;
-  margin: 0 auto;
-}
-
-.language h2 {
-  margin: 20px;
-  text-align: center;
-  font-size: 30px;
-  font-weight: 100;
-}
-
-.flex-2 {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-  align-items: center;
-  margin: 30px;
-}
-
-.card-2 {
-  border: 1px black;
-  width: 100px;
-  height: 130px;
-  background-color: white;
-  border-radius: 10px;
-  box-shadow: 0 3px 10px rgb(0 0 0 / 50%);
-  padding: 10px;
-  margin: 10px;
-  transition: transform 0.2s ease-in;
-}
-
-.lang {
-  text-align: center;
-  padding-bottom: 10px;
-}
-
-.card-2 img {
-  width: 80px;
-}
-
-.card-2:hover {
-  transform: translateY(-15px);
-  
 /* cloud section */
 
 .cloud {
