@@ -176,7 +176,66 @@ input:valid ~ label {
   font-size: 14px;
 }
 
-/* statstic section  */
+/* Footer Styles */
+.footer {
+  background-color: #002240;
+  color: #fff;
+  padding: 50px;
+}
+
+.footer .container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.footer-content {
+  flex: 1;
+}
+
+.footer-content h1 {
+  font-size: 2rem;
+}
+
+.footer-nav ul {
+  list-style: none;
+  padding: 30px;
+}
+
+.footer-link {
+  color: #fff;
+  margin-right: 10rem;
+}
+
+.footer-nav a:hover {
+  border-bottom: 2px #fff solid;
+}
+
+.social-link {
+  color: #002240;
+}
+
+.fab {
+  margin: 0 10px;
+  color: white;
+}
+
+/* Social Icons Hover Colors */
+.fa-github:hover {
+  color: black;
+}
+
+.fa-facebook:hover {
+  color: #1773ea;
+}
+
+.fa-instagram:hover {
+  color: #b32e87;
+}
+
+.fa-twitter:hover {
+  color: #1c9cea;
+}
 
 .grid {
   display: grid;
@@ -292,4 +351,50 @@ input:valid ~ label {
 
 .card-2:hover {
   transform: translateY(-15px);
+  
+/* cloud section */
+
+.cloud {
+  background-color: #047aed;
+  color: white;
+  text-align: center;
+  margin-bottom: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.button {
+  color: white;
+  background-color: black;
+  text-align: center;
+  display: inline-block;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  padding: 20px;
+  font-size: 20px;
+  margin-top: 15px;
+}
+
+.button:hover {
+  transform: scale(0.97);
+}
+
+.text {
+  display: inline-block;
+  margin-top: 10px;
+  font-size: 25px;
+}
+
+.cloud-description {
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
+.cloud-img {
+  display: flex;
+  justify-content: flex-start;
+  height: 320px;
+  width: auto;
 }
