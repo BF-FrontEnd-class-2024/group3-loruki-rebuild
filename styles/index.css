@@ -248,3 +248,50 @@ input:valid ~ label {
   padding-left: 300px;
   padding-right: 500px;
 }
+
+/* cloud section */
+
+.cloud {
+  background-color: #047aed;
+  color: white;
+  text-align: center;
+  margin-bottom: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.button {
+  color: white;
+  background-color: black;
+  text-align: center;
+  display: inline-block;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  padding: 20px;
+  font-size: 20px;
+  margin-top: 15px;
+}
+
+.button:hover {
+  transform: scale(0.97);
+}
+
+.text {
+  display: inline-block;
+  margin-top: 10px;
+  font-size: 25px;
+}
+
+.cloud-description {
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
+.cloud-img {
+  display: flex;
+  justify-content: flex-start;
+  height: 320px;
+  width: auto;
+}
